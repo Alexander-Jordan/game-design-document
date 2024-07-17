@@ -4,26 +4,23 @@
 ## Table of content
 
 - [Overview](#overview)
-    - [Theme](#theme)
-    - [Hook & loop](#hook--loop)
-- [Story](#story)
-    - [Characters](#characters)
-    - [Section 1](#section-1)
-- [Gameplay](#gameplay)
     - [Skills](#skills)
-    - [Mechanics](#mechanics)
+- [Story](#story)
+    - [Story Hook](#story-hook)
+	- [Setting](#setting)
+    - [Characters](#characters)
+    - [Narrative](#narrative)
+- [Gameplay](#gameplay)
+    - [Gameplay Hook](#gameplay-hook)
+	- [Loops](#loops)
     - [Entities](#entities)
     - [Progression](#progression)
     - [Losing](#losing)
 - [Assets](#assets)
-    - [2D](#2d)
-    - [3D](#3d)
-    - [UI](#ui)
+    - [Sensory Hook](#sensory-hook)
+	- [Art](#art)
+	- [Level Design](#level-design)
     - [Audio](#audio)
-    - [Animation](#animation)
-- [Level design](#level-design)
-    - [Main menu](#main-menu)
-    - [Level 1](#level-1)
 - [Technical](#technical)
     - [Platform](#platform)
     - [Tools](#tools)
@@ -33,48 +30,43 @@
 
 ## Overview
 
-Describe the game in one line here.
-
-```
-Give a more detailed description of what to expect from this game.
-```
-
-### Theme
-
-What is the theme/style for this game, and what other games inspired it?
-
-### Hook & Loop
-
-Provide at least 1 hook & loop, which should be the main hook/loop for the game.
-The loop should be tightly intergrated with the hook, so that the hook catches the players and the loop keeps them playing.
-
-## Story
-
-Write the general story, where/when it takes place.
-
-### Characters
-
-Describe in detail the different characters.
-
-### Section 1
-
-What's the story for this section?
-
-## Gameplay
-
-Describe the gameplay.
+Describe the game in 1-3 sentences.
 
 ### Skills
 
 List skills that are required or will be learned by the player.
 
-### Mechanics
+## Story
 
-Describe in detail the different mechanics and how they work.
+### Story Hook
+
+What compelling story is there to hook in the player?
+
+### Setting
+
+When and where does the story take place?
+
+### Characters
+
+Describe in detail the different characters.
+
+### Narrative
+
+What's the story's narrative?
+
+## Gameplay
+
+### Gameplay Hook
+
+What is the "wow"-factor of the gameplay to make players interested in this game?
+
+### Loops
+
+What repeatable cycles of actions makes the player continue playing?
 
 ### Entities
 
-Describe in detail the different entities such as items, power-ups, or NPCs.
+All about the player, enemies, NPC:s, items, power-ups, etc., and their mechanics, properties, and screenshots in the game.
 
 ### Progression
 
@@ -86,37 +78,21 @@ What are the losing conditions?
 
 ## Assets
 
-### 2D
+### Sensory Hook
 
-What 2D assets are needed for or is already part of this game?
+What is the "wow"-factor using either sight, sound, touch, or all?
 
-### 3D
+### Art
 
-What 3D assets are needed for or is already part of this game?
+[Art Bible](#)
 
-### UI
+### Level Design
 
-What font and UI elements are needed for or is already part of this game?
+[Level Design Document](#)
 
 ### Audio
 
-What music and SFX are needed for or is already part of this game?
-
-### Animation
-
-What animations are needed for or is already part of this game?
-
-## Level design
-
-How are the levels structured?
-
-### Main menu
-
-How is the main menu suppose to be?
-
-### Level 1
-
-How is this level designed?
+[Audio Design Document](#)
 
 ## Technical
 
