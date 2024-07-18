@@ -1,5 +1,6 @@
-# GAME TITLE
-### GAME SUBTITLE
+# GAME TITLE - SUBTITLE
+
+## Game Design Document
 
 ## Table of content
 
