@@ -85,15 +85,15 @@ What is the "wow"-factor using either sight, sound, touch, or all?
 
 ### Art
 
-[Art Bible](#)
+[Art Bible](/art-bible/art-bible.md)
 
 ### Level Design
 
-[Level Design Document](#)
+[Level Design Document](/level-design-document/ldd.md)
 
 ### Audio
 
-[Audio Design Document](#)
+[Audio Design Document](/audio-design-document/add.md)
 
 ## Technical
 

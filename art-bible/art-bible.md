@@ -4,6 +4,7 @@
 
 ## Table of content
 
+- [Other Design Documents](#other-design-documents)
 - [Art Style](#art-style)
     - [General](#general)
     - [Visual Hook](#visual-hook)
@@ -36,6 +37,12 @@
     - [Restrictions](#restrictions)
     - [Naming Conventions](#naming-conventions)
     - [Workflows](#workflows)
+
+### Other Design Documents:
+
+- [GDD](/game-design-document/gdd.md)
+- [LDD](/level-design-document/ldd.md)
+- [ADD](/audio-design-document/add.md)
 
 # Art Style
 
