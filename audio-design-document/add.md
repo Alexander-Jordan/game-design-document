@@ -56,14 +56,15 @@ What is the style and purpose of dialogs?
 
 ## UI
 
-What is the style and purpose of the audio of the UI?
+What is the style and purpose of the UI audio?
 
 # Research
 
-What research have been done? What file formats have been tested/used? What in-game audio experiments have been done?
+What research have been done?  What are the inspirations for this games audio? What audio experiments have been done? What file formats have been tested/used?
+
 This section can prove to be valuable in looking back at past experiments on the project.
 
-This section can also include moodboards in the form of playlists.
+You can also include moodboards in the form of playlists.
 
 # Implementation
 

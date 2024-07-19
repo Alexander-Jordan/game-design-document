@@ -38,10 +38,11 @@ What is the purpose and structure of this level?
 
 # Research
 
-What research have been done? What prototypes and experiments have been done?
+What are the inspirations for this games level design? What prototypes and experiments have been done? What file formats have been tested/used?
+
 This section can prove to be valuable in looking back at past experiments on the project.
 
-Make sure to include moodboards of inspirations or experiments.
+Make sure to include moodboards of inspirations, prototypes, or experiments.
 
 # Implementation
 
@@ -51,7 +52,7 @@ What are some general implementations, rules, or boundaries for the game levels?
 
 ## Level 1
 
-What are some implementations, rules, or boundaries for this level? How will the player progress? What is the difficulty and what will the player learn/achieve?
+What are some implementations, rules, or boundaries for this level? How will the player progress? What is unique, achievable, difficult, and gained with this level?
 
 # Content List
 
