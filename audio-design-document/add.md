@@ -23,6 +23,12 @@
     - [SFX](#sfx-2)
     - [Dialog](#dialog-2)
     - [UI](#ui-2)
+- [Technical Guidelines](#technical-guidelines)
+    - [Software](#software)
+    - [File Formats](#file-formats)
+    - [Restrictions](#restrictions)
+    - [Naming Conventions](#naming-conventions)
+    - [Workflows](#workflows)
 
 ### Other Design Documents:
 
@@ -63,7 +69,7 @@ This section can also include moodboards in the form of playlists.
 
 ## General
 
-What are some general implementations, rules, or boundaries for the game audio? How many audio layers/busses should there be? How will they act in the game and with each other? What are some technical limitations to respect? What is the file name convention?
+What are some general implementations, rules, or boundaries for the game audio? How many audio layers/busses should there be? How will they act in the game and with each other?
 
 ## Music
 
@@ -110,3 +116,25 @@ What are some implementations, rules, or boundaries for the UI? How many audio l
 | Status | Type | Name |
 |---|---|---|
 | To do | Button | Button click |
+
+# Technical Guidelines
+
+## Software
+
+What software is used and for what?
+
+## File Formats
+
+What are the different file formats for the assets, at any stage in production?
+
+## Restrictions
+
+What are the restrictions or technical limitations to respect and be aware of?
+
+## Naming Conventions
+
+How should files be named?
+
+## Workflows
+
+What are the workflows for creating any audio mentioned in this ADD?
