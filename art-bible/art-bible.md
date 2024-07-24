@@ -40,9 +40,9 @@
 
 ### Other Design Documents:
 
-- [GDD](/game-design-document/gdd.md)
-- [LDD](/level-design-document/ldd.md)
-- [ADD](/audio-design-document/add.md)
+- [GDD](../game-design-document/gdd.md)
+- [LDD](../level-design-document/ldd.md)
+- [ADD](../audio-design-document/add.md)
 
 # Art Style
 

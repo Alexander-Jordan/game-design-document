@@ -32,9 +32,9 @@
 
 ### Other Design Documents:
 
-- [GDD](/game-design-document/gdd.md)
-- [Art Bible](/art-bible/art-bible.md)
-- [LDD](/level-design-document/ldd.md)
+- [GDD](../game-design-document/gdd.md)
+- [Art Bible](../art-bible/art-bible.md)
+- [LDD](../level-design-document/ldd.md)
 
 # Outline/Objectives
 
