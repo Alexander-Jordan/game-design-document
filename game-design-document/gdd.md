@@ -9,7 +9,6 @@
     - [Plot](#plot)
     - [Setting](#setting)
     - [Characters](#characters)
-    - [Narrative](#narrative)
 - [Gameplay](#gameplay)
     - [Gameplay Hook](#gameplay-hook)
 	- [Loops](#loops)
