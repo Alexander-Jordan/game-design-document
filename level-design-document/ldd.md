@@ -1,6 +1,4 @@
-# GAME TITLE - SUBTITLE
-
-## Level Design Document
+# GAME TITLE - SUBTITLE (Level Design Document)
 
 ## Table of content
 
