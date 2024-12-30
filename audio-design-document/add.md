@@ -1,6 +1,4 @@
-# GAME TITLE - SUBTITLE
-
-## Audio Design Document
+# GAME TITLE - SUBTITLE (Audio Design Document)
 
 ## Table of content
 
