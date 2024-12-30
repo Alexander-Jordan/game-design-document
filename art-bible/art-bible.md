@@ -1,6 +1,4 @@
-# GAME TITLE - SUBTITLE
-
-## Art Bible
+# GAME TITLE - SUBTITLE (Art Bible)
 
 ## Table of content
 
